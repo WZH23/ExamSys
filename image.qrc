@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/account">
+        <file>account/login.png</file>
+        <file>account/login.ico</file>
+    </qresource>
+</RCC>
