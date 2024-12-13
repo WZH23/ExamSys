@@ -50,7 +50,7 @@ void ExamDialog::initLayout()
 {
     m_layout = new QGridLayout(this);
     m_layout->setSpacing(10);                   //设置控件间的间距
-    m_layout->setSpacing(10);                   //设置窗体与控件间的间隙
+    m_layout->setMargin(10);                   //设置窗体与控件间的间隙
 }
 
 bool ExamDialog::initTextEdig()
